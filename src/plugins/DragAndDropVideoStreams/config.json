@@ -1,0 +1,30 @@
+{
+    "id": "",
+    "info": {
+        "name": "DragAndDropVideoStreams",
+        "authors": [{
+            "name": "Raiden11X",
+            "discord_id": "231504668834922496",
+            "github_username": "Raiden11X",
+            "twitter_username": "pmcintyre3"
+        }],
+        "version": "0.0.1",
+        "description": "A module to allow users arrange their Discord call screen in any way they want.",
+        "github": "https://github.com/pmcintyre3/BetterDiscordAddons/tree/main/Plugins/DragAndDropVideoStreams",
+        "github_raw": "https://raw.githubusercontent.com/pmcintyre3/BetterDiscordAddons/main/Plugins/DragAndDropVideoStreams/DragAndDropVideoStreams.plugin.js"
+    },
+    "name": "DragAndDropVideoStreams",
+    "author": "Raiden11X",
+    "authorId": "231504668834922496",
+    "authorLink": "",
+    "version": "0.0.1",
+    "description": "A module to allow users arrange their Discord call screen in any way they want",
+    "website": "",
+    "source": "https://github.com/pmcintyre3/BetterDiscordAddons/tree/main/Plugins/DragAndDropVideoStreams",
+    "patreon": "",
+    "donate": "",
+    "invite": "",
+    "changelog": [],
+    "main": "index.js",
+    "defaultConfig": []
+}
